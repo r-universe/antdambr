@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ConsRank"]
+	path = ConsRank
+	url = https://github.com/cran/ConsRank
+[submodule "ConsRankClass"]
+	path = ConsRankClass
+	url = https://github.com/cran/ConsRankClass
