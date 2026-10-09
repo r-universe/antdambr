@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "ConsRank"]
 	path = ConsRank
-	url = https://github.com/antdambr/consrank
+	url = https://github.com/cran/ConsRank
 [submodule "ConsRankClass"]
 	path = ConsRankClass
 	url = https://github.com/cran/ConsRankClass
